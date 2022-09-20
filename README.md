@@ -1,4 +1,4 @@
-## Hi there, I'm Lucas Guilherme <img src="./gifs/Hi.gif" width="30px"></h2>
+## Hello World, I'm Lucas Guilherme <img src="./gifs/Hi.gif" width="30px"></h2>
 
 <div align="center">
     <h3 align="left">Languages and Tools: <img src="./gifs/code.gif" width="30"></h3>
