@@ -14,10 +14,10 @@
 </div></br></br>
 <div align="center">
   <a href="https://Luc4sguilherme.dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luc4sguilherme&count_private=true&show_icons=true&theme=github_dark" />
+    <img height="180em" src="https://github-readme-stats-luc4sguilherme.vercel.app/api?username=Luc4sguilherme&count_private=true&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true" />
   </a>
   <a href="https://Luc4sguilherme.dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc4sguilherme&theme=github_dark&layout=compact" />
+    <img height="180em" src="https://github-readme-stats-luc4sguilherme.vercel.app/api/top-langs/?username=Luc4sguilherme&theme=transparent&layout=compact" />
   </a>
 </div>
 </br>
