@@ -6,6 +6,8 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/tailwindcss-20232A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -14,7 +16,7 @@
 </div></br></br>
 <div align="center">
   <a href="https://Luc4sguilherme.dev">
-    <img height="180em" src="https://github-readme-stats-luc4sguilherme.vercel.app/api?username=Luc4sguilherme&count_private=true&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats-luc4sguilherme.vercel.app/api?username=Luc4sguilherme&count_private=true&show_icons=true&theme=transparent&rank_icon=github" />
   </a>
   <a href="https://Luc4sguilherme.dev">
     <img height="180em" src="https://github-readme-stats-luc4sguilherme.vercel.app/api/top-langs/?username=Luc4sguilherme&theme=transparent&layout=compact" />
